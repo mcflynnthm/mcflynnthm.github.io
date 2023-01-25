@@ -1,0 +1,32 @@
+body{
+   background: #000000;
+}
+
+h1 {
+  font-family: Sylfaen, serif;
+}
+
+div.content {
+  margin: 0% 25% 0% 25%;
+  font-family: Verdana, sans-serif;
+  top: 4.7em;
+
+}
+
+div.body { 
+  margin: 1em 0em 1em 0em;
+  background: #DDDDDD;
+  padding: 0.5em;
+  color: black;
+  border-top: 0.5em solid #AAAAAA;
+  border-bottom: 0.5em solid #AAAAAA;
+}
+
+div.derp {
+  padding: 0 2em 0 2em;
+  font-size: 14px;
+}
+
+li {
+  padding-bottom:5px;
+}
