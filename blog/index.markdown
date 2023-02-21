@@ -4,3 +4,6 @@
 
 layout: home
 ---
+This is the main page. What will be here eventually? Who knows!
+
+-JF
