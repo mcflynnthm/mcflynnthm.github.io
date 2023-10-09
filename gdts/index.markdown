@@ -5,4 +5,3 @@
 layout: home
 title: "GDTS Mk. II"
 ---
-Here we go again...
