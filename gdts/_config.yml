@@ -22,7 +22,7 @@ title: GDTS Mark II
 email: mcflynnthm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   What's more hip and with it than your own blog? Once again I am going to talk about music.
-baseurl: "/gdts/" # the subpath of your site, e.g. /blog
+baseurl: "/gdts" # the subpath of your site, e.g. /blog
 domain: "johnrflynn.com"
 url: "https://johnrflynn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mcflynnthm
